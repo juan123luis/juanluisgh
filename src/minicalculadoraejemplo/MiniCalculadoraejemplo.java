@@ -31,7 +31,7 @@ public class MiniCalculadoraejemplo {
      * @param n número que le pasamos para calcular la raiz cuadrada
      * @return devuelve valor de la raiz cuadrada
      */
-    public double raizCuadrada(double n) {
+    public double raizCuadrada(double n) { //Este metodo devuelve el resultado de la raiz cuadrada
         return Math.sqrt(n);
     }
 
